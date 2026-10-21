@@ -1,0 +1,21 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Portfolio-only local artifacts and sensitive inputs
+.git/
+.local/
+test-results/
+playwright-report/
+*.db
+*.sqlite*
+*.pdf
+*.hwp
+*.hwpx
+*.pem
+*.key

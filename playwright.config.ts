@@ -1,0 +1,2 @@
+import { defineConfig } from '@playwright/test';
+export default defineConfig({testDir:'tests/browser',workers:1,reporter:'list',use:{baseURL:'http://127.0.0.1:5191',browserName:'chromium',viewport:{width:1440,height:1080},locale:'ko-KR',timezoneId:'Asia/Seoul'},webServer:{command:'npm run dev',url:'http://127.0.0.1:5191/api/health',env:{PORT:'5191'},reuseExistingServer:false,timeout:60000},outputDir:'test-results'});

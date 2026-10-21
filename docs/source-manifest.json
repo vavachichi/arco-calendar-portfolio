@@ -1,0 +1,231 @@
+{
+  "originalFiles": [
+    {
+      "path": ".gitignore",
+      "mode": "modified",
+      "sourceSha256": "eb13e93639d4c770f0a28ba670e9f4a922bc20ff1e734bdbe916740b0ae13d74",
+      "portfolioSha256": "4b3420f907d1b4e7deaf80c849866c71ccd552a092d297fad3d7446d4f830851"
+    },
+    {
+      "path": "assets/.aistudio/.gitignore",
+      "mode": "unchanged",
+      "sourceSha256": "45549a9ffd9963f855d72829e978a31c05b82894b14b1d8fbdd43083b20c2d86",
+      "portfolioSha256": "45549a9ffd9963f855d72829e978a31c05b82894b14b1d8fbdd43083b20c2d86"
+    },
+    {
+      "path": "bun.lock",
+      "mode": "unchanged",
+      "sourceSha256": "9ea177a95c6c31fb9c41baaf4e721d3d52d41d51287d5ccb4a2877ff90951f7e",
+      "portfolioSha256": "9ea177a95c6c31fb9c41baaf4e721d3d52d41d51287d5ccb4a2877ff90951f7e"
+    },
+    {
+      "path": "index.html",
+      "mode": "unchanged",
+      "sourceSha256": "feb4fc22e593d30c3777a14526539e6114af70cc1b0a890c8105f28fbcc0ec82",
+      "portfolioSha256": "feb4fc22e593d30c3777a14526539e6114af70cc1b0a890c8105f28fbcc0ec82"
+    },
+    {
+      "path": "metadata.json",
+      "mode": "unchanged",
+      "sourceSha256": "dcade34b249aa250a5c2059de593eb48d630ae4257ae894a9b4f755b66ad1a68",
+      "portfolioSha256": "dcade34b249aa250a5c2059de593eb48d630ae4257ae894a9b4f755b66ad1a68"
+    },
+    {
+      "path": "package.json",
+      "mode": "modified",
+      "sourceSha256": "6a47c376d7f5b660c720810f6072a7e6ea5e960cda7103b8f45221b18b9acd34",
+      "portfolioSha256": "5c2b2064610bb9ae3e85c4194328d65fdf7dde51870765519f6b381a516b8d28"
+    },
+    {
+      "path": "server.ts",
+      "mode": "modified",
+      "sourceSha256": "003fb59d0e96f7ab7dca6511f983bc8c49c1e48f8a1914ec40be83a974757b9e",
+      "portfolioSha256": "f378714456143a3b433f374007c1bfd804286e4ab2a912b84664dd30c368b126"
+    },
+    {
+      "path": "src/App.tsx",
+      "mode": "modified",
+      "sourceSha256": "3c75046a718b23157b6d5727a9ac8a414daf5f389059d5d67a0bc8801970872a",
+      "portfolioSha256": "450122258dec107a19cfe7459db71280cf7e4bc67d98edf1a3fbe3c5e734fc03"
+    },
+    {
+      "path": "src/components/AIAssistantModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "a54ffea20c932aa21b5aab769e4fde6bd447e2cdfe04fcd09846561658d2ae7e",
+      "portfolioSha256": "a54ffea20c932aa21b5aab769e4fde6bd447e2cdfe04fcd09846561658d2ae7e"
+    },
+    {
+      "path": "src/components/AccessKeyLoginModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "ab27f102d95f9eaef04a13f7ee8186ca85f253148dbff03ef99fc14712c7e624",
+      "portfolioSha256": "ab27f102d95f9eaef04a13f7ee8186ca85f253148dbff03ef99fc14712c7e624"
+    },
+    {
+      "path": "src/components/AdminDashboard.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "8a94e4aa426cceb84f8cccb0bc62418bd8898b7f841a6568eed02f54f45a2e4f",
+      "portfolioSha256": "8a94e4aa426cceb84f8cccb0bc62418bd8898b7f841a6568eed02f54f45a2e4f"
+    },
+    {
+      "path": "src/components/ArkoLogo.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "6a26cbe444dfe07875b055399b33f4f76b9880230743045d416c940bd0fa9044",
+      "portfolioSha256": "6a26cbe444dfe07875b055399b33f4f76b9880230743045d416c940bd0fa9044"
+    },
+    {
+      "path": "src/components/BatchDataImportModal.tsx",
+      "mode": "modified",
+      "sourceSha256": "efb5b647bc30bf8f57dba1b4e1674dd13177e3ab8f931cbd8905003599e3d20c",
+      "portfolioSha256": "bcbe14f99e266069e1e55b67632758c29f6ada0d477247f8d632cf1ad0bdf883"
+    },
+    {
+      "path": "src/components/CalendarHub.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "b4b3f1d6a9caa1fa8db266fa033a13d738d588672271189832fcc380acfb860c",
+      "portfolioSha256": "b4b3f1d6a9caa1fa8db266fa033a13d738d588672271189832fcc380acfb860c"
+    },
+    {
+      "path": "src/components/DayScheduleModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "6ee5fd7919c722af49077d79304b866b2faaf6eebd9c87ca25f0ff3027e5247d",
+      "portfolioSha256": "6ee5fd7919c722af49077d79304b866b2faaf6eebd9c87ca25f0ff3027e5247d"
+    },
+    {
+      "path": "src/components/EvaluationFormModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "c289667f583f4c742e6e359a2903388feb9a1f861f63edfcd9a84d1ba079f55a",
+      "portfolioSha256": "c289667f583f4c742e6e359a2903388feb9a1f861f63edfcd9a84d1ba079f55a"
+    },
+    {
+      "path": "src/components/EvaluatorPortal.tsx",
+      "mode": "modified",
+      "sourceSha256": "c53f722e2caa681fbaa5c1c4283beeefe18d819a84ef9b868c592f1d58ed9fa2",
+      "portfolioSha256": "54c46bddc9afd81c194a899ca4acd58a961ced0c0d8119834986f7389fa26167"
+    },
+    {
+      "path": "src/components/ExcelBatchProgramImport.tsx",
+      "mode": "modified",
+      "sourceSha256": "92db9dd7e3bbd313de8fe5615fd47c1a0c85438c7025bf472859efdb09f071de",
+      "portfolioSha256": "24023b5cd996d20036abb45e24eddc73e657450c7ec6934586fa5169b57f1422"
+    },
+    {
+      "path": "src/components/Header.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "fed1cbc29e208d68c1ae1ae748a86f3f0443b3a6b26dd20129c0b8db3bbcd7e6",
+      "portfolioSha256": "fed1cbc29e208d68c1ae1ae748a86f3f0443b3a6b26dd20129c0b8db3bbcd7e6"
+    },
+    {
+      "path": "src/components/InstitutionDetailModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "829921839a5e81c77bfb26d5965d2c8d9e3e45e7c20327facc1bf8e706017fb2",
+      "portfolioSha256": "829921839a5e81c77bfb26d5965d2c8d9e3e45e7c20327facc1bf8e706017fb2"
+    },
+    {
+      "path": "src/components/InstitutionPortal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "a79f7a1a42b79d90d6d9b81eb8e13921c6b92c671c8d1fb380d3cd4460f5e098",
+      "portfolioSha256": "a79f7a1a42b79d90d6d9b81eb8e13921c6b92c671c8d1fb380d3cd4460f5e098"
+    },
+    {
+      "path": "src/components/LoginScreen.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "8f2ca656e7128108013de2155e0905ea3e7be9bed649deff004e82af4ab6b77a",
+      "portfolioSha256": "8f2ca656e7128108013de2155e0905ea3e7be9bed649deff004e82af4ab6b77a"
+    },
+    {
+      "path": "src/components/NewProgramModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "16a20dadf738c9a6d09a507e49bb31ccdf492a38a487ea66b7859bd617600836",
+      "portfolioSha256": "16a20dadf738c9a6d09a507e49bb31ccdf492a38a487ea66b7859bd617600836"
+    },
+    {
+      "path": "src/components/SmartCoordinationModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "1b84884f918b7ae87a5279fb1d6c0603501bb73f7b577e961864e52246b793e2",
+      "portfolioSha256": "1b84884f918b7ae87a5279fb1d6c0603501bb73f7b577e961864e52246b793e2"
+    },
+    {
+      "path": "src/components/SmartMatchModal.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "525cdf5887f38b872264abfc13ebecc98f8b53af4240697c33ba57832af702c7",
+      "portfolioSha256": "525cdf5887f38b872264abfc13ebecc98f8b53af4240697c33ba57832af702c7"
+    },
+    {
+      "path": "src/data/mockData.ts",
+      "mode": "modified",
+      "sourceSha256": "0c3b089a35d11363179993a19fb2b1d8486f5330e6b86a6c4092364042fad5fd",
+      "portfolioSha256": "439fa567016149525c18fd3d7353a6ab86e3114a3e6c0daa14c8c8141a1dc0cb"
+    },
+    {
+      "path": "src/index.css",
+      "mode": "unchanged",
+      "sourceSha256": "8a760a784f79570e06fdcb0c6a2677ea66c304230b7925ea313d63b46d8ba407",
+      "portfolioSha256": "8a760a784f79570e06fdcb0c6a2677ea66c304230b7925ea313d63b46d8ba407"
+    },
+    {
+      "path": "src/main.tsx",
+      "mode": "unchanged",
+      "sourceSha256": "8b129211a1e36a01a0c294633d8463c9a661a78fe04c3f26f45ca2fdabdedff0",
+      "portfolioSha256": "8b129211a1e36a01a0c294633d8463c9a661a78fe04c3f26f45ca2fdabdedff0"
+    },
+    {
+      "path": "src/types.ts",
+      "mode": "unchanged",
+      "sourceSha256": "7dc918440ace6d68a8da4215b17452682e7515c456f5e8b546c686b82b397943",
+      "portfolioSha256": "7dc918440ace6d68a8da4215b17452682e7515c456f5e8b546c686b82b397943"
+    },
+    {
+      "path": "src/utils/calendarUtils.ts",
+      "mode": "modified",
+      "sourceSha256": "1fd9194dbb3e8ab905e8eb1db3a71f7e7a5cd29c4e689e6ff4391934d68a7f00",
+      "portfolioSha256": "680b7b90597a389ad109138fd3db26e95c3d7383a281b83a4570b54a130ecf5d"
+    },
+    {
+      "path": "src/utils/excelImportUtils.ts",
+      "mode": "modified",
+      "sourceSha256": "93bbe78d3bd1dbdca567051b173a177ca621156449b2aaf03a0faffe2bc33b1d",
+      "portfolioSha256": "112605e1101e044427fac506eb693ba547553698dbc3a9af25ab6ca325becac0"
+    },
+    {
+      "path": "src/utils/exportUtils.ts",
+      "mode": "unchanged",
+      "sourceSha256": "d6d110e64a702ad16ba43baba63dfaeb19a5a3a0c6410f05b127478e35b7a8e1",
+      "portfolioSha256": "d6d110e64a702ad16ba43baba63dfaeb19a5a3a0c6410f05b127478e35b7a8e1"
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "unchanged",
+      "sourceSha256": "3c6abfb62d861145b657e37a6bbf96d1626752b6145e3bf9c218a0e66112cdd6",
+      "portfolioSha256": "3c6abfb62d861145b657e37a6bbf96d1626752b6145e3bf9c218a0e66112cdd6"
+    },
+    {
+      "path": "vite.config.ts",
+      "mode": "unchanged",
+      "sourceSha256": "b990c4afdfb5195bdc994739210dbfeb0b5eece38bd0caf2a76d44b2ee97c6bb",
+      "portfolioSha256": "b990c4afdfb5195bdc994739210dbfeb0b5eece38bd0caf2a76d44b2ee97c6bb"
+    }
+  ],
+  "addedFiles": [
+    "README.md",
+    "docs/changes.md",
+    "docs/publication-report.md",
+    "docs/source-manifest.json",
+    "package-lock.json",
+    "playwright.config.ts",
+    "portfolio-api.ts",
+    "screenshots/01-dashboard.png",
+    "screenshots/02-calendar.png",
+    "screenshots/03-booking.png",
+    "screenshots/04-materials.png",
+    "screenshots/README.md",
+    "src/data/portfolioStorage.ts",
+    "tests/ai-harness.tsx",
+    "tests/browser/flows.spec.ts",
+    "tests/core.test.ts",
+    "tools/check-public.mjs"
+  ],
+  "excludedOriginalFiles": [
+    ".env.example"
+  ],
+  "gitHistoryCopied": false
+}
